@@ -14,3 +14,7 @@
 Завантажую (Пушу) - git push
 
 ![image](https://user-images.githubusercontent.com/85835140/122135769-c9e38e00-ce49-11eb-8165-c36dfe4381be.png)
+
+SSH-Ключ
+
+![image](https://user-images.githubusercontent.com/85835140/122137622-ba664400-ce4d-11eb-9245-4f9c4becc4d5.png)
